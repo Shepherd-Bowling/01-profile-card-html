@@ -1,0 +1,45 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+.card img {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 48px;
+  color: darkblue;
+}
+
+h2 {
+  font-size: 32px;
+  color: slategrey;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
